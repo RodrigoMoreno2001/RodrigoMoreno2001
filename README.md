@@ -1,5 +1,5 @@
 
-# 😳Bienvenidos a mi repositorio😳
+# Bienvenidos a mi repositorio
 
 ## while(programing){
 
